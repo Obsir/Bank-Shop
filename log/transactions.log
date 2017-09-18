@@ -1,0 +1,6 @@
+2017-09-17 22:05:01,280 - transaction - INFO - account:1234   action:repay    amount:100.0   interest:0.0
+2017-09-17 22:07:14,408 - transaction - INFO - account:1234   action:withdraw    amount:100.0   interest:5.0
+2017-09-17 23:12:34,059 - transaction - INFO - account:1234   action:transfer    amount:200.0   interest:10.0
+2017-09-17 23:12:34,060 - transaction - INFO - account:5678   action:repay    amount:200.0   interest:0.0
+2017-09-17 23:31:28,294 - transaction - INFO - account:5678   action:withdraw    amount:200.0   interest:10.0
+2017-09-18 12:03:21,191 - transaction - INFO - account:1234   action:consume    amount:120.0   interest:0.0
